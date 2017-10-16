@@ -1,2 +1,3 @@
-var m= 10
+var m= 10;
+var e= 40;
 
